@@ -1,5 +1,11 @@
 # Telegram Qdrant Semantic Search
 
+#### Student: Haritz Eizagirre
+#### Subject: Generative AI for Software Engineering
+#### LAB: From Telegram Group to Semantic Search
+
+## What is it?
+
 A complete toolkit for backing up a Telegram chat/topic, automatically expanding shared embedded links/tweets, and making them fully searchable using AI Embeddings and Qdrant!
 
 ## Prerequisites
