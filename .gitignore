@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Environment Variables & Secrets
+.env
+
+# Telethon Session Files (Contains your login session!)
+*.session
+*.session-journal
+
+# Backups and Parsed Data
+backup/
+*.json
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
